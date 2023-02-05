@@ -41,14 +41,11 @@
 <img align="center" alt="Rafa-Js" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg"/>
 <img align="center" alt="Rafa-Js" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"/>
 </div>
-
-
-
-
-
-
-
+ 
+##
 
 <div> 
-  <a href="https://www.linkedin.com/in/eversonrezende/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/pedrogbook" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedrogabrielpf@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedroferrarezzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
