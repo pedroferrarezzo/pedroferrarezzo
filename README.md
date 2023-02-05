@@ -55,4 +55,4 @@
  
  
  
-![Snake animation](https://github.com/pedroferrarezzo/pedroferrarezzo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedroferrarezzo)
