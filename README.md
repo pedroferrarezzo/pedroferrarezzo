@@ -4,12 +4,6 @@
 
 <p>Aqui existem as principais tecnologias com as quais <strong>trabalhei</strong>! Desejo ser programador, e estou come&ccedil;ando meus estudos, <strong>sua contribui&ccedil;&atilde;o</strong> com os projetos codados aqui ser&atilde;o muito bem vindas para o meu e o nosso aprimoramento, fique a vontade :]</p>
 
- <div>
-  <a href="https://github.com/pedroferrarezzo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedroferrarezzo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferrarezzo&layout=demot&langs_count=7&theme=dark"/>
-</div>
-
 ##
 <p><strong>Tecnologias que estou estudando:</strong></p>
 <div styles="display: inline_block"><br>
