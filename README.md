@@ -32,7 +32,7 @@
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"/>
-<img align="center" alt="Rafa-Js" height="60" width="60" src="https://static.vecteezy.com/ti/vetor-gratis/p3/9119164-ssh-logo-ssh-letter-ssh-letter-logo-design-initials-ssh-logo-linked-with-circle-and-uppercase-monogram-logo-ssh-typography-for-technology-business-and-real-marca-imobiliaria-vetor.jpg"/>
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
 <img align="center" alt="Rafa-Js" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg"/>
