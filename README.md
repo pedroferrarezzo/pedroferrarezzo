@@ -22,7 +22,8 @@
 <div styles="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-<i align="center" alt="Rafa-Js" height="38" width="40" class="devicon-amazonwebservices-plain-wordmark"></i>
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+          
 </div>
 
 ##
