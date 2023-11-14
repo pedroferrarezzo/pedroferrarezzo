@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ##
 ## Opa! Bem vindo ao meu portfólio!
 <img align="center" alt="Rafa-yoda" height="200" width="200" src="https://cdn.discordapp.com/attachments/1065773653310050374/1071799076946976839/ezgif-3-c853acb007.gif"/>
@@ -20,7 +22,7 @@
 <div styles="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> 
+<i align="center" alt="Rafa-Js" height="38" width="40" class="devicon-amazonwebservices-plain-wordmark"></i>
 </div>
 
 ##
