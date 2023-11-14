@@ -2,7 +2,7 @@
 ## Opa! Bem vindo ao meu portfólio!
 <img align="center" alt="Rafa-yoda" height="200" width="200" src="https://cdn.discordapp.com/attachments/1065773653310050374/1071799076946976839/ezgif-3-c853acb007.gif"/>
 
-<p>Aqui existem as principais tecnologias com as quais <strong>trabalhei</strong>! Estudante de infraestrutura de rede e desenvolvimento de sistemas, e estou come&ccedil;ando meus estudos, <strong>sua contribui&ccedil;&atilde;o</strong> com os projetos codados aqui ser&atilde;o muito bem vindas para o meu e o nosso aprimoramento, fique a vontade :]</p>
+<p>Aqui existem as principais tecnologias com as quais <strong>trabalhei</strong>! Estudante de infraestrutura de rede e desenvolvimento de sistemas, estou dando meus primeiros passos, <strong>sua contribui&ccedil;&atilde;o</strong> com os projetos codados aqui ser&atilde;o muito bem vindas para o meu e o nosso aprimoramento, fique a vontade :]</p>
 
 ##
 <p><strong>Tecnologias que estou estudando:</strong></p>
