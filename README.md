@@ -34,7 +34,7 @@
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"/>
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
 <img align="center" alt="Rafa-Js" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
 <img align="center" alt="Rafa-Js" height="50" width="55" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"/>
