@@ -7,7 +7,7 @@
 
 <p>Aqui existem as principais tecnologias com as quais <strong>trabalhei</strong>! 
 
-<p><strong>Sua contribui&ccedil;&atilde;o</strong> com os projetos ser&atilde;o muito bem vindas para o meu e o nosso aprimoramento, fique a vontade :]</p>
+<p><strong>Sua contribui&ccedil;&atilde;o</strong> com os projetos será muito bem vinda para o meu e o seu aprimoramento, fique a vontade :]</p>
 
 ##
 <p><strong>Tecnologias que estou estudando:</strong></p>
