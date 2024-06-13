@@ -2,7 +2,7 @@
 
 ##
 ## Opa! Bem vindo ao meu portfólio!
-<p>Sou um estudante de infraestrutura de rede/desenvolvimento de sistemas dando seus primeiros passos desvendando os dois mundos.</p>
+<p>Sou um estudante ativo de tecnologia, aprendendo coisas novas todos os dias e me aprimorando.</p>
 <img align="center" alt="Rafa-yoda" height="200" width="200" src="https://cdn.discordapp.com/attachments/1065773653310050374/1071799076946976839/ezgif-3-c853acb007.gif"/>
 
 <p>Aqui existem as principais tecnologias com as quais <strong>trabalhei</strong>! 
