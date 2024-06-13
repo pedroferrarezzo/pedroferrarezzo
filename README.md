@@ -10,41 +10,43 @@
 <p><strong>Sua contribui&ccedil;&atilde;o</strong> com os projetos será muito bem vinda para o meu e o seu aprimoramento, fique a vontade :]</p>
 
 ##
-<p><strong>Tecnologias que estou estudando:</strong></p>
+<p><strong>Algumas das tecnologias que já tive contato:</strong></p>
 <div styles="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
+<img align="center" alt="Rafa-Js" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"/>
+<img align="center" alt="Rafa-Js" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
 
-</div>
- 
-##
-<p><strong>Certificações em Nuvem Obtidas:</strong></p>
-<div styles="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/> 
-          
-</div>
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 
-##
-<p><strong>Algumas Tecnologias, Serviços de Rede, Provedores de ativos de rede e afins que já lidei:</strong></p>
-<div styles="display: inline_block"><br>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
+<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" />
 <img align="center" alt="Rafa-Js" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg"/>
 <img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
 <img align="center" alt="Rafa-Js" height="50" width="55" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"/>
 <img align="center" alt="Rafa-Js" height="55" width="55" src="https://logodix.com/logo/542895.jpg"/>
-<img align="center" alt="Rafa-Js" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg"/>
-<img align="center" alt="Rafa-Js" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"/>
+
+
 </div>
  
 ##
