@@ -3,10 +3,7 @@
 ##
 ## Opa! Bem vindo ao meu portfólio!
 <p>Sou um estudante ativo de tecnologia, aprendendo coisas novas todos os dias e me aprimorando.</p>
-<img align="center" alt="Rafa-yoda" height="200" width="200" src="https://cdn.discordapp.com/attachments/1065773653310050374/1071799076946976839/ezgif-3-c853acb007.gif"/>
-
 <p>Aqui existem as principais tecnologias com as quais <strong>trabalhei</strong>! 
-
 <p><strong>Sua contribui&ccedil;&atilde;o</strong> com os projetos será muito bem vinda para o meu e o seu aprimoramento, fique a vontade :]</p>
 
 ##
