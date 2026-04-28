@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=pedroferrarezzo&color=006bed)
+![](https://komarev.com/ghpvc/?username=pedroferrarezzo&color=141321)
 
 ## Olá, meu nome é Pedro Ferrarezzo!
 
@@ -7,7 +7,7 @@
 
 ---
 
-### ⚙️ GitHub Analytics
+### 📈 GitHub Analytics
 
 <table>
   <tr>
@@ -38,7 +38,7 @@
 
 ---
 
-### 🧰 Tecnologias
+### ⚙️ Tecnologias
 
 **Aplicações**
 
@@ -47,10 +47,24 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
+![ShadCN](https://img.shields.io/badge/-ShadCN-333333?style=flat&logo=shadcnui)
+
+**Testes**
+
+![Sonar](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqubecloud)
+![K6](https://img.shields.io/badge/-K6-333333?style=flat&logo=k6)
+![JMeter](https://img.shields.io/badge/-Apache%20JMeter-333333?style=flat&logo=apachejmeter)
+![Burp](https://img.shields.io/badge/-Burp%20Suite-333333?style=flat&logo=burpsuite)
+![JUnit5](https://img.shields.io/badge/-JUnit5-333333?style=flat&logo=junit5)
+![xUnit](https://img.shields.io/badge/-xUnit-333333?style=flat&logo=xunit)
+![PyTest](https://img.shields.io/badge/-Pytest-333333?style=flat&logo=pytest)
+![TestContainers](https://img.shields.io/badge/-TestContainers-333333?style=flat&logo=developmentcontainers)
 
 **Bancos de Dados**
 
@@ -82,12 +96,14 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
 ![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=cisco)
 ![Fortinet](https://img.shields.io/badge/-Fortinent-333333?style=flat&logo=fortinet)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
 
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-333333?style=flat&logo=argo)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
