@@ -53,6 +53,7 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -72,6 +73,7 @@
 ![JUnit5](https://img.shields.io/badge/-JUnit5-333333?style=flat&logo=junit5)
 ![xUnit](https://img.shields.io/badge/-xUnit-333333?style=flat&logo=xunit)
 ![PyTest](https://img.shields.io/badge/-Pytest-333333?style=flat&logo=pytest)
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 ![TestContainers](https://img.shields.io/badge/-TestContainers-333333?style=flat&logo=developmentcontainers)
 
 **Bancos de Dados**
@@ -102,20 +104,28 @@
 ![Kestrel](https://img.shields.io/badge/-Kestrel-333333?style=flat&logo=kestrel)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
+![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark)
+![Vmware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
+![Proxmox](https://img.shields.io/badge/-Proxmox-333333?style=flat&logo=proxmox)
 ![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=cisco)
 ![Fortinet](https://img.shields.io/badge/-Fortinent-333333?style=flat&logo=fortinet)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare)
+
 
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![ArgoCD](https://img.shields.io/badge/-ArgoCD-333333?style=flat&logo=argo)
+![Helm](https://img.shields.io/badge/-Helm-333333?style=flat&logo=helm)
+![Trivy](https://img.shields.io/badge/-Trivy-333333?style=flat&logo=trivy)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
+![ArgoCD](https://img.shields.io/badge/-ArgoCD-333333?style=flat&logo=argo)
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+![Vagrant](https://img.shields.io/badge/-Vagrant-333333?style=flat&logo=vagrant)
 
 **Observabilidade**
 
@@ -123,6 +133,7 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
 ![Elastic](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch)
+![Fluentd](https://img.shields.io/badge/-Fluentd-333333?style=flat&logo=fluentd)
 ![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana)
 ![New Relic](https://img.shields.io/badge/-New%20Relic-333333?style=flat&logo=newrelic)
 ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-333333?style=flat&logo=opentelemetry)
