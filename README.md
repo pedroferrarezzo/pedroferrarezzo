@@ -1,58 +1,142 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+![](https://komarev.com/ghpvc/?username=pedroferrarezzo&color=006bed)
 
-##
-## Opa! Bem vindo ao meu portfólio!
+## Olá, meu nome é Pedro Ferrarezzo!
+
 <p>Sou um estudante ativo de tecnologia, aprendendo coisas novas todos os dias e me aprimorando.</p>
-<p>Aqui existem as principais tecnologias com as quais <strong>trabalhei</strong>! 
-<p><strong>Sua contribui&ccedil;&atilde;o</strong> com os projetos será muito bem vinda para o meu e o seu aprimoramento, fique a vontade :]</p>
-
----
-<p><strong>Algumas das tecnologias que já tive contato:</strong></p>
-<div styles="display: inline_block"><br>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
-<img align="center" alt="Rafa-Js" height="30" width="70" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"/>
-<img align="center" alt="Rafa-Js" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.worldvectorlogo.com/logos/azure-active-directory.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" />
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/centos/centos-original.svg" />
-<img align="center" alt="Rafa-Js" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Zabbix_logo.svg"/>
-<img align="center" alt="Rafa-Js" height="38" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
-<img align="center" alt="Rafa-Js" height="50" width="55" src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"/>
-<img align="center" alt="Rafa-Js" height="55" width="55" src="https://logodix.com/logo/542895.jpg"/>
-</div>
+<p>Aqui estão algumas das principais tecnologias com as quais já trabalhei e continuo evoluindo.</p>
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroferrarezzo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferrarezzo&layout=donut&theme=radical)](https://github.com/pedroferrarezzo/github-readme-stats)
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=pedroferrarezzo&theme=radical&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferrarezzo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Top Languages"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=pedroferrarezzo&theme=radical&hide_border=false"
+        alt="Streak Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
-##
-<div> 
-  <a href = "mailto:pedrogabrielpf@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedroferrarezzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 🧰 Tecnologias
+
+**Aplicações**
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+
+**Bancos de Dados**
+
+![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+![Neo4J](https://img.shields.io/badge/-Neo4J-333333?style=flat&logo=neo4j)
+![Qdrant](https://img.shields.io/badge/-Qdrant-333333?style=flat&logo=qdrant)
+
+**Cloud**
+
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+![Huawei](https://img.shields.io/badge/-Huawei-333333?style=flat&logo=huawei)
+
+
+**Infra**
+
+![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat&logo=nginx)
+![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
+![Tomcat](https://img.shields.io/badge/-Tomcat-333333?style=flat&logo=apachetomcat)
+![Kestrel](https://img.shields.io/badge/-Kestrel-333333?style=flat&logo=kestrel)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
+![Cisco](https://img.shields.io/badge/-Cisco-333333?style=flat&logo=cisco)
+![Fortinet](https://img.shields.io/badge/-Fortinent-333333?style=flat&logo=fortinet)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
+![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops)
+![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+
+**Observabilidade**
+
+![Zabbix](https://img.shields.io/badge/-Zabbix-333333?style=flat&logo=zabbix)
+![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+![Elastic](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana)
+![New Relic](https://img.shields.io/badge/-New%20Relic-333333?style=flat&logo=newrelic)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-333333?style=flat&logo=opentelemetry)
+![Jaeger](https://img.shields.io/badge/-Jaeger-333333?style=flat&logo=jaeger)
+![Zipkin](https://img.shields.io/badge/-Zipkin-333333?style=flat&logo=zipkin)
+![Grafana Loki](https://img.shields.io/badge/-Grafana%20Loki-333333?style=flat&logo=grafanaloki)
+
+**Sistemas**
+
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
+![CentOS](https://img.shields.io/badge/-CentOS-333333?style=flat&logo=centos)
+
+<br/>
+
+---
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=pedroferrarezzo&column=8&theme=radical&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+### 📫 Contato
+
+<div align="center"> 
+  <a href="mailto:pedrogabrielpf@outlook.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pedroferrarezzo" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
 </div>
