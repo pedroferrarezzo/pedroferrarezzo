@@ -3,7 +3,7 @@
 ## Olá, meu nome é Pedro Ferrarezzo!
 
 <p>Sou um estudante ativo de tecnologia, aprendendo coisas novas todos os dias e me aprimorando.</p>
-<p>Aqui estão algumas das principais tecnologias com as quais já trabalhei e continuo evoluindo.</p>
+<p>Aqui estão algumas das principais tecnologias com as quais já trabalhei/estudei e continuo evoluindo.</p>
 
 ---
 
