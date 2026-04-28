@@ -35,6 +35,14 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=pedroferrarezzo&column=8&theme=radical&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
 
 ---
 
@@ -130,19 +138,6 @@
 ![CentOS](https://img.shields.io/badge/-CentOS-333333?style=flat&logo=centos)
 
 <br/>
-
----
-
-### 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=pedroferrarezzo&column=8&theme=radical&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
 
 ---
 
