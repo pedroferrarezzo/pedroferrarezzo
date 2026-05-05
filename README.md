@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=pedroferrarezzo&color=141321)
 
-## Olá, meu nome é Pedro Ferrarezzo!
+## Hi ;)
 
-<p>Sou um estudante ativo de tecnologia, aprendendo coisas novas todos os dias e me aprimorando.</p>
-<p>Aqui estão algumas das principais tecnologias com as quais já trabalhei/estudei e continuo evoluindo.</p>
+<p>I'm a tech professional dedicated to continuous learning and growth.</p>
+<p>Every day is an opportunity to sharpen my skills. Below are the key technologies I've explored and am currently evolving in.</p>
 
 ---
 
@@ -46,9 +46,9 @@
 
 ---
 
-### ⚙️ Tecnologias
+### ⚙️ Technologies
 
-**Aplicações**
+**Applications**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
@@ -64,7 +64,7 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)
 ![ShadCN](https://img.shields.io/badge/-ShadCN-333333?style=flat&logo=shadcnui)
 
-**Testes**
+**Tests**
 
 ![Sonar](https://img.shields.io/badge/-SonarQube-333333?style=flat&logo=sonarqubecloud)
 ![K6](https://img.shields.io/badge/-K6-333333?style=flat&logo=k6)
@@ -76,7 +76,7 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 ![TestContainers](https://img.shields.io/badge/-TestContainers-333333?style=flat&logo=developmentcontainers)
 
-**Bancos de Dados**
+**Database**
 
 ![MariaDB](https://img.shields.io/badge/-MariaDB-333333?style=flat&logo=mariadb)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -127,7 +127,7 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-333333?style=flat&logo=vagrant)
 
-**Observabilidade**
+**O11y**
 
 ![Zabbix](https://img.shields.io/badge/-Zabbix-333333?style=flat&logo=zabbix)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
@@ -141,7 +141,7 @@
 ![Zipkin](https://img.shields.io/badge/-Zipkin-333333?style=flat&logo=zipkin)
 ![Grafana Loki](https://img.shields.io/badge/-Grafana%20Loki-333333?style=flat&logo=grafanaloki)
 
-**Sistemas**
+**Operational Systems**
 
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
@@ -152,7 +152,7 @@
 
 ---
 
-### 📫 Contato
+### 📫 Contact Me
 
 <div align="center"> 
   <a href="mailto:pedrogabrielpf@outlook.com">
