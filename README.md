@@ -32,7 +32,7 @@
   </tr>
 </table>
 
-**Applications**
+**Languages**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
