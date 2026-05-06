@@ -5,10 +5,6 @@
 <p>I'm a tech professional dedicated to continuous learning and growth.</p>
 <p>Every day is an opportunity to sharpen my skills. Below are the key technologies I've explored and am currently evolving in.</p>
 
----
-
-### 📈 GitHub Analytics
-
 <table>
   <tr>
     <td>
@@ -35,18 +31,6 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=pedroferrarezzo&column=8&theme=radical&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
----
-
-### ⚙️ Technologies
 
 **Applications**
 
@@ -150,9 +134,7 @@
 
 <br/>
 
----
-
-### 📫 Contact Me
+## 📫 Contact Me
 
 <div align="center"> 
   <a href="mailto:pedrogabrielpf@outlook.com">
