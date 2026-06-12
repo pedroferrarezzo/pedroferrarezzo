@@ -3,7 +3,6 @@
 ## Hi ;)
 
 <p>I'm a tech professional dedicated to continuous learning and growth.</p>
-<p>Every day is an opportunity to sharpen my skills. Below are the key technologies I've explored and am currently evolving in.</p>
 
 <table>
   <tr>
