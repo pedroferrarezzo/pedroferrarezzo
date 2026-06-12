@@ -2,7 +2,7 @@
 
 ## Hi ;)
 
-<p>I'm a tech professional dedicated to continuous learning and growth.</p>
+<p>I'm a tech professional and lifelong learning.</p>
 
 <table>
   <tr>
