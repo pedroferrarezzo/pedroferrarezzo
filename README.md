@@ -2,8 +2,8 @@
 
 ## Hi ;)
 
-<p>I'm a tech professional and lifelong learning.</p>
-
+<p>I'm a Software Engineer and lifelong learner. I'm passionate about software architecture, distributed systems, infrastructure, and DevOps, always looking to build scalable and efficient solutions.</p>
+ 
 **Languages**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
@@ -103,6 +103,8 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
 ![CentOS](https://img.shields.io/badge/-CentOS-333333?style=flat&logo=centos)
+
+> ℹ️ Here are some of the technologies I've worked with or studied. This list does not necessarily reflect my level of expertise in each technology.
 
 <br/>
 
