@@ -4,33 +4,6 @@
 
 <p>I'm a tech professional and lifelong learning.</p>
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=pedroferrarezzo&theme=radical&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroferrarezzo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Top Languages"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=pedroferrarezzo&theme=radical&hide_border=false"
-        alt="Streak Stats"
-      />
-    </td>
-  </tr>
-</table>
-
 **Languages**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
